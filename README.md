@@ -1,3 +1,3 @@
 # DiseñoAlgoritmos
 
-## Trabajos y ejercicios de la materia Diseño de Algoritmos
+Trabajos y ejercicios de la materia Diseño de Algoritmos
